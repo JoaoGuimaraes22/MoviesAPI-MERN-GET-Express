@@ -6,14 +6,12 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/JoaoGuimaraes22/MoviesAPI-MERN-GET-Express.git"
-  },
   "author": "John G",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/JoaoGuimaraes22/MoviesAPI-MERN-GET-Express/issues"
+  "dependencies": {
+    "express": "^4.17.1"
   },
-  "homepage": "https://github.com/JoaoGuimaraes22/MoviesAPI-MERN-GET-Express#readme"
+  "devDependencies": {
+    "nodemon": "^2.0.2"
+  }
 }
